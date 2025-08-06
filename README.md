@@ -58,7 +58,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" style="width:60%; height: 100%"
-            src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es" /></a>
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelMartinez17&theme=github_dark"/></a>
     <img align="center" style="width:25%; height: 100%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
 

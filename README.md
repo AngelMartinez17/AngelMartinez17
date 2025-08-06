@@ -56,7 +56,7 @@
 </p>
 <p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="#¿Que haces?">
         <img align="center" style="width:60%; height: 100%"
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelMartinez17&theme=github_dark"/></a>
     <img align="center" style="width:25%; height: 70%"

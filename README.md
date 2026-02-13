@@ -6,8 +6,9 @@
 # 📚 Documentación de Ingeniería e Infraestructura
 
 Bienvenido al centro de conocimiento del equipo de desarrollo. Aquí encontrarás los estándares, configuraciones y guías para trabajar con nuestra infraestructura.
-<img align="center" style="width:60%; height: 100%" src="https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png"/>
-            
+<p align="center">
+  <img src="https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png" width="600">
+</p>
 ---
 
 ## 🚀 1. Ecosistema de Herramientas

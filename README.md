@@ -9,6 +9,8 @@ Bienvenido al centro de conocimiento del equipo de desarrollo. Aquí encontrará
 <p align="center">
   <img src="https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png" width="600">
 </p>
+![Sistema](https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png)
+
 ---
 
 ## 🚀 1. Ecosistema de Herramientas

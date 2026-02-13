@@ -7,7 +7,7 @@
 
 Bienvenido al centro de conocimiento del equipo de desarrollo. Aquí encontrarás los estándares, configuraciones y guías para trabajar con nuestra infraestructura.
 <p align="center">
-  <img src="sistemas.png" width="70%">
+  <img src="SISTEMAS.png" width="70%">
 </p>
 
 ---

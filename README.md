@@ -7,9 +7,8 @@
 
 Bienvenido al centro de conocimiento del equipo de desarrollo. Aquí encontrarás los estándares, configuraciones y guías para trabajar con nuestra infraestructura.
 <p align="center">
-  <img src="https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png" width="600">
+  <img src="sistemas.png" width="70%">
 </p>
-![Sistema](https://storage.cominvi.com.mx/utilerias/imagenes/sistemas.png)
 
 ---
 
